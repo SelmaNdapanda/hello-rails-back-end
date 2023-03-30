@@ -19,7 +19,9 @@
 
 # 📖 Hello Rails Back-end <a name="about-project"></a>
 
-**Hello Rails Back-end** is a demo Rails project where I used js-building gem to integrate Webpack/React & Redux with rails
+**Hello Rails Back-end** is a demo that demonstrates the use of the RoR + React project as two apps, front-end and back-end. This repo represents the back-end part which is built with Ruby on Rails.
+
+Find the front-end repository [here](https://github.com/SelmaNdapanda/hello-react-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,9 +51,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Register an account**
-- **Create categories and transactions**
-- **Metrics about user transactions**
+- **Provide a random message through the API endpoint**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
