@@ -51,3 +51,6 @@ end
 
 # RSpec gem to run testing in rails
 gem 'rspec-rails'
+
+# Swagger gem to create API documentation
+gem 'rswag'
