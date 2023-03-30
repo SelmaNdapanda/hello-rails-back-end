@@ -1,3 +1,4 @@
+<a name="readme-top">Hello Rails Back End</a>
 # 📗 Table of Contents
 
 - [📖 About the Project](#[project])
@@ -17,11 +18,11 @@
 - [📝 License](#license)
 
 
-# 📖 Hello Rails Back-end <a name="about-project"></a>
+# 📖 hello-rails-back-end <a name="about-project"></a>
 
 **Hello Rails Back-end** is a demo that demonstrates the use of the RoR + React project as two apps, front-end and back-end. This repo represents the back-end part which is built with Ruby on Rails.
 
-Find the front-end repository [here](https://github.com/SelmaNdapanda/hello-react-front-end.git)
+Find the front-end repository [here](https://github.com/SelmaNdapanda/hello-react-front-end/tree/front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,6 +57,8 @@ Find the front-end repository [here](https://github.com/SelmaNdapanda/hello-reac
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Coming Soon]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -113,6 +116,8 @@ In the project directory, you can run:
 - GitHub: [@SelmaNdapanda](https://github.com/SelmaNdapanda)
 - Twitter: [@SellohBlaq](https://twitter.com/sellohBlaq)
 - LinkedIn: [selma-hamutenya](www.linkedin.com/in/selma-hamutenya)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
