@@ -1,0 +1,37 @@
+---
+openapi: 3.0.1
+info:
+  title: API V1
+  version: v1
+paths:
+  "/api/v1/random":
+    get:
+      summary: Retrieves a message
+      tags:
+      - Random
+      responses:
+        '200':
+          description: Message found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  text:
+                    type: text
+                  created_at:
+                    type: string
+                  updated_at:
+                    type: string
+                required:
+                - id
+                - text
+                - created_at
+                - updated_at
+servers:
+- url: http://127.0.0.1:8080
+  variables:
+    defaultHost:
+      default: www.example.com
